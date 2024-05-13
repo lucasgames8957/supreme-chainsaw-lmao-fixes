@@ -197,6 +197,5 @@ html {
 }
 
 .roundedimage {
-    border-radius: 10px;
-    pointer-events: none;
+    border-radius: 10px ;
 }
