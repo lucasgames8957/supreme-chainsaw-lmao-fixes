@@ -199,3 +199,7 @@ html {
 .roundedimage {
     border-radius: 10px;
 }
+
+img {
+    pointer-events: none;
+}
